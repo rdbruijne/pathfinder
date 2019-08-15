@@ -13,6 +13,7 @@
   * Skills met een sterretje achter de naam kun je niet doen als je er geen punten in hebt gestopt)
 - [ ] Spells kiezen (mits je caster bent)
 - [ ] Hitpoints berekenen: Hit Die + CON bonus (op 1e level altijd max waarde van je hit die)
+- [ ] [Favored class option](https://www.d20pfsrd.com/Classes/character-advancement/#Favored_Class): +1 HP, +1 skill rank of race specific ([d20PFSRD](https://www.d20pfsrd.com/races/)), mits je begin class ook je favorite class is
 - [ ] Startkapitaal rollen (zie class description)
 - [ ] Equipment kiezen ([armor](http://www.d20pfsrd.com/equipment/armor/), [wapens](https://www.d20pfsrd.com/equipment/weapons/), [extra gear](https://www.d20pfsrd.com/equipment/goods-and-services/))
 - [ ] AC berekenen
