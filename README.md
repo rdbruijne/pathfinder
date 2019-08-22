@@ -21,6 +21,7 @@
 - [ ] Attacks bepalen
 - [ ] Character beschrijving invullen (naam, lengte, ras, ...)
 - [ ] Background maken
+- [ ] [Carrying Capacity](https://www.d20pfsrd.com/alignment-description/carrying-capacity/) opzoeken
 
 # Class Info Table
 
