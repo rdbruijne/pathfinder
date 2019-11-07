@@ -31,6 +31,7 @@
   * Note: het aantal punten in een skill mag nooit meer zijn dan je totale level.
 - [ ] Nieuwe Feat kiezen (Level 1, 3, 5, 7, 9, 11, 13, 15, 17, 19)
 - [ ] 2 Ability punten verdelen (Level 4, 8, 12, 16, 20)
+- [ ] [Favored class bonus](https://www.d20pfsrd.com/Classes/character-advancement/#Favored_Class) toewijzen (indien van toepassing)
 
 # Class Info Table
 
