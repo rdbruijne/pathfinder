@@ -23,6 +23,15 @@
 - [ ] Background maken
 - [ ] [Carrying Capacity](https://www.d20pfsrd.com/alignment-description/carrying-capacity/) opzoeken
 
+# Leveling
+- [ ] HP verhogen: Roll je Hit Dice (zie _Class Info Table_) en tel je CON bonus er bij op.
+- [ ] Nieuwe class features toepassen (zie class pagina op [d20pfsrd](https://www.d20pfsrd.com/classes/))
+- [ ] Spellcasters: nieuwe spells kiezen
+- [ ] Skillpoints toewijzen(zie _Class Info Table_) .
+  * Note: het aantal punten in een skill mag nooit meer zijn dan je totale level.
+- [ ] Nieuwe Feat kiezen (Level 1, 3, 5, 7, 9, 11, 13, 15, 17, 19)
+- [ ] 2 Ability punten verdelen (Level 4, 8, 12, 16, 20)
+
 # Class Info Table
 
 | Class      | Hit Die | Skill points per level | Starting wealth     |
@@ -48,6 +57,30 @@
 | Summoner   | d8      | 2 + INT                | 2d6 x 10gp (~70gp)  |
 | Witch      | d6      | 2 + INT                | 3d6 x 10gp (~105gp) |
 | Wizard     | d6      | 2 + INT                | 2d6 x 10gp (~70gp)  |
+
+# Class Advancement Table
+| Level | Feats | Ability Score |
+|-------|-------|---------------|
+|   1   | 1st   | -             |
+|   2   | -     | -             |
+|   3   | 2nd   | -             |
+|   4   | -     | 1st           |
+|   5   | 3rd   | -             |
+|   6   | -     | -             |
+|   7   | 4th   | -             |
+|   8   | -     | 2nd           |
+|   9   | 5th   | -             |
+|  10   | -     | -             |
+|  11   | 6th   | -             |
+|  12   | -     | 3rd           |
+|  13   | 7th   | -             |
+|  14   | -     | -             |
+|  15   | 8th   | -             |
+|  16   | -     | 4th           |
+|  17   | 9th   | -             |
+|  18   | -     | -             |
+|  19   | 10th  | -             |
+|  20   | -     | 5th           |
 
 # Extra Info
 
