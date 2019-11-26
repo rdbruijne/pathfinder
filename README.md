@@ -93,3 +93,7 @@
   * **Flat footed:** negeer Dex bonus
   * **Touch:** negeer armor + shield bonus
 * Keuzes die bij het spelen toch niet leuk/handig blijken te zijn, kunnen de eerste paar sessies zonder problemen worden aangepast, daarna in overleg.
+
+# Links
+* [D20pfsrd.com](https://www.d20pfsrd.com/) - Pathfinder resources
+* [charactersheet.co.uk](http://charactersheet.co.uk/pathfinder/) - Character sheet
